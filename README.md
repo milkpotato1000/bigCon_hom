@@ -63,6 +63,6 @@
 팀원들은 아래 단계를 따라 프로젝트를 시작합니다:
 
 ```bash
-git clone https://github.com/milkpotato1000/bigCon.git
+git clone https://github.com/milkpotato1000/bigCon_hom.git
 cd bigCon_hom
 
