@@ -1,4 +1,10 @@
-# 🏆 [핸죤머선일이고] 제 13회 빅콘테스트
+# 🏆제 13회 신한카드  빅콘테스트
+
+---
+
+## Branch 정보
+* 작성자: seongwon
+* time series 관점에서의 분석 진행
 
 ---
 
@@ -55,14 +61,3 @@
 ### ⚙️ 환경
 
 - 추후 작성 예정
-
----
-
-## 4. 환경 설정 및 시작하기
-
-팀원들은 아래 단계를 따라 프로젝트를 시작합니다:
-
-```bash
-git clone https://github.com/milkpotato1000/bigCon_hom.git
-cd bigCon_hom
-
